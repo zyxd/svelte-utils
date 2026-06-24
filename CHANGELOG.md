@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/zyxd/svelte-utils/compare/v1.0.0...v1.1.0) (2026-06-24)
+
+
+### Features
+
+* added PreloadingIndicator component ([ae433a2](https://github.com/zyxd/svelte-utils/commit/ae433a2bd5cfc3d3c899d3e24bb663537675c9f8))
+
 ## 1.0.0 (2026-06-23)
 
 
