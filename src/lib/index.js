@@ -3,3 +3,4 @@ export { default as intersection } from './attachments/intersection.svelte'
 
 export { default as Image } from './components/Image.svelte'
 export { default as Picture } from './components/Picture.svelte'
+export { default as PreloadingIndicator } from './components/PreloadingIndicator.svelte'
