@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/zyxd/svelte-utils/compare/v1.1.0...v1.1.1) (2026-06-24)
+
+
+### Bug Fixes
+
+* required Svelte version is updated to 5.56.4 ([4413fb3](https://github.com/zyxd/svelte-utils/commit/4413fb3b1293a213fa1712541b70fc007ec56807))
+
 ## [1.1.0](https://github.com/zyxd/svelte-utils/compare/v1.0.0...v1.1.0) (2026-06-24)
 
 
