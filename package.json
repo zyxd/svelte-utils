@@ -1,6 +1,10 @@
 {
   "name": "@zyxd/svelte-utils",
   "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyxd/svelte-utils.git"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run prepack",
