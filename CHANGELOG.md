@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/zyxd/svelte-utils/compare/v1.1.3...v1.1.4) (2026-06-24)
+
+
+### Bug Fixes
+
+* release.yaml OIDC permissions ([ae5542e](https://github.com/zyxd/svelte-utils/commit/ae5542ee5d0ef5579c7191cd6c7c67aab2159d35))
+
 ## [1.1.3](https://github.com/zyxd/svelte-utils/compare/v1.1.2...v1.1.3) (2026-06-24)
 
 
