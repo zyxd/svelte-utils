@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/zyxd/svelte-utils/compare/v1.1.2...v1.1.3) (2026-06-24)
+
+
+### Bug Fixes
+
+* repository url in package.json ([0a3f8fc](https://github.com/zyxd/svelte-utils/commit/0a3f8fcfaaf77126684ca08a1fd7cc3dc8b734cf))
+
 ## [1.1.2](https://github.com/zyxd/svelte-utils/compare/v1.1.1...v1.1.2) (2026-06-24)
 
 
